@@ -8,7 +8,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "MatseVH | Documentation",
   tagline: "The documentation for multiple projects combined at one place",
-  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://docs.matsevh.eu",
@@ -39,7 +38,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/", // Serve the docs at the site's root
         },
+        blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -54,77 +55,27 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "MatseVH | Documentation",
-        logo: {
-          alt: "MatseVH | Documentation",
-          src: "img/logo.svg",
-        },
         items: [
           {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Intro",
-          },
-          {
             href: "https://matsevh.be",
-            label: "Matsevh",
+            label: "MatseVH",
             position: "right",
           },
           {
-            href: "https://github.com/matsevh",
+            href: "https://github.com/matse2005",
             label: "GitHub",
             position: "right",
           },
         ],
       },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Documentation",
-            items: [
-              {
-                label: "SportdagKSd",
-                to: "/docs/sportdagksd",
-              },
-            ],
-          },
-          {
-            title: "MatseVH",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} MatseVH`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
     }),
 };

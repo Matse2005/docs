@@ -78,6 +78,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
     }),
+  themes: ["@docusaurus/theme-live-codeblock"],
 };
 
 module.exports = config;

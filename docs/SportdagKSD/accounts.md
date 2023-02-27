@@ -10,9 +10,17 @@ sidebar_position: 2
 
 Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je bovenaan een knop zien `Nieuw Account`, klik op deze knop. Vul al de gevraagde velden in en klik op de knop `Aanmaken`. Het account zal nu aangemaakt worden en verschijnen in de lijst op de **accounts** pagina.
 
-### Bewerken
+### Bewerken - Nog niet werkend
+
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Bewerken`. Bewerk vervolgens de velden in kwestie en klik daarna op opslaan.
 
 ### Verwijderen
+
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Verwijderen`.
+
+### Beheerder
+
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Maak beheerder` als het account nog geen gebruiker is of op `Verwijder beheerder` als het account al een beheerder is.
 
 ## Automatisch
 
@@ -33,4 +41,4 @@ Als je al een excel ter beschikking hebt met al de accounts die aangemaakt moete
 
 Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je bovenaan een knop zien `Importeer Accounts`, klik op deze knop. Selecteer vervolgens de excel met accounts die aangemaakt moeten worden en klik op `Importeren`. Al de accounts zullen nu aangemaakt worden en verschijnen in de lijst op de **accounts** pagina.
 
-### Verwijderen
+### Verwijderen - Nog niet werkend

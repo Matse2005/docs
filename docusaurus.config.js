@@ -77,6 +77,11 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
     }),
   themes: ["@docusaurus/theme-live-codeblock"],
 };

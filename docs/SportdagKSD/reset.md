@@ -2,4 +2,4 @@
 sidebar_position: 8
 ---
 
-# Resetten
+# Resetten - Nog niet werkend

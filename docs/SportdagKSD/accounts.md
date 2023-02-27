@@ -12,15 +12,15 @@ Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts*
 
 ### Bewerken - Nog niet werkend
 
-Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Bewerken`. Bewerk vervolgens de velden in kwestie en klik daarna op opslaan.
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van het account in de tabel. Klik op de drie bolletjes en klik daarna op `Bewerken`. Bewerk vervolgens de velden in kwestie en klik daarna op opslaan.
 
 ### Verwijderen
 
-Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Verwijderen`.
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van het account in de tabel. Klik op de drie bolletjes en klik daarna op `Verwijderen`.
 
 ### Beheerder
 
-Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van de gebruiker in de tabel. Klik op de drie bolletjes en klik daarna op `Maak beheerder` als het account nog geen gebruiker is of op `Verwijder beheerder` als het account al een beheerder is.
+Ga naar het dashboard van de website en ga verder naar het onderdeel **accounts**. Eenmaal aangekomen op de **accounts** pagina ga je opzoek naar het account dat je wilt aanpassen, wanneer je het account gevonden hebt kan je klikken op de drie bolletjes op het einde van de rij van het account in de tabel. Klik op de drie bolletjes en klik daarna op `Maak beheerder` als het account nog geen gebruiker is of op `Verwijder beheerder` als het account al een beheerder is.
 
 ## Automatisch
 
